@@ -14,10 +14,10 @@
     "@astrojs/tailwind": "5.1.2",
     "astro": "^4.16.18",
     "tailwindcss": "^3.0.24",
-    "tinacms": "^2.3.0"
+    "tinacms": "^2.5.2"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.6.10",
+    "@tinacms/cli": "^1.7.0",
     "@types/node": "^22.8.2"
   },
   "optionalDependencies": {

@@ -1,0 +1,5 @@
+- [Escuela.dev](https://escuela.dev)
+- [GitHub](https://github.com/gianpaj)
+- [YouTube](https://youtube.com/@gianpaj)
+- [LinkedIn](https://www.linkedin.com/in/gianpaj)
+- [X](https://x.com/gianpaj)

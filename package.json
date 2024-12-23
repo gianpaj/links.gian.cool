@@ -19,5 +19,8 @@
   "devDependencies": {
     "@tinacms/cli": "^1.6.10",
     "@types/node": "^22.8.2"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.9.5"
   }
 }

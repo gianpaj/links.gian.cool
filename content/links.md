@@ -1,3 +1,4 @@
+- [SexyVoice.ai](https://sexyvoice.ai)
 - [Escuela.dev](https://escuela.dev)
 - [GitHub](https://github.com/gianpaj)
 - [YouTube](https://youtube.com/@gianpaj)

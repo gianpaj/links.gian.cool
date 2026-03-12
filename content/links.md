@@ -1,6 +1,4 @@
-- [SexyVoice.ai](https://sexyvoice.ai)
-- [Escuela.dev](https://escuela.dev)
+- [SexyVoice.ai](https://sexyvoice.ai) - Text to speech and voice cloning service
 - [GitHub](https://github.com/gianpaj)
-- [YouTube](https://youtube.com/@gianpaj)
 - [LinkedIn](https://www.linkedin.com/in/gianpaj)
-- [X](https://x.com/gianpaj)
+- [X/Twitter](https://x.com/gianpaj)
